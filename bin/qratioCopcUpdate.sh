@@ -2,7 +2,6 @@
 export LC=ALL
 
 source "../conf/global.sh"
-PYTHON3="/home/services/miniconda3/bin/python3"
 
 function check_status() {
     tag=$1
